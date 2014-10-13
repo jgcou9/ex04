@@ -11,7 +11,7 @@ String table(int t) {
 } 
 
 main() {
-print('Question 5 :');
+  print('Question 5 :');
   int count2 = 15; 
   String total = 
       table(count2); 

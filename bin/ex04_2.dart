@@ -1,7 +1,7 @@
 import 'dart:math' as math;
 
 main() {
-print('Question 2 :');
+  print('Question 2 :');
   var width = 800; 
   var height = 600; 
   var x = (width / 2) + (math.cos(45*math.PI/180)*160);

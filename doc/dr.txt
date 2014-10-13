@@ -1,1 +1,13 @@
 ex04
+
+18/20
+
+attention: formatage (voir: https://www.dartlang.org/articles/style-guide/)
+
+-2 4.3
+Question 3 :
+22.0521 years
+671 months
+8049 days
+devrait être comme dans l'exemple:
+26 years 11 months 3 days
